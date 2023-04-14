@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm berkentekinsoy</h1>
-<h3 align="center">I love C++.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkentekinsoy" alt="berkentekinsoy" /></a> </p>
+<h3 align="center">I love C++</h3>
 
 - 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [github.com/berkentekinsoy](github.com/berkentekinsoy)
 
-- 📫 How to reach me **[denizerutkub@gmail.com](https://www.linkedin.com/in/berkentekinsoy/)**
+- 📫 How to reach me **https://www.linkedin.com/in/berkentekinsoy/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
