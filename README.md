@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/berkentekinsoy](github.com/berkentekinsoy)
 
-- 📫 How to reach me **denizerutkub@gmail.com**
+- 📫 How to reach me **[denizerutkub@gmail.com](https://www.linkedin.com/in/berkentekinsoy/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
